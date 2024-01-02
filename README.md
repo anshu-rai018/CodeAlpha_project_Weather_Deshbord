@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-### URL : 
+### URL : https://github.com/anshu-rai018/CodeAlpha_project_Weather_Deshbord
 
 ## Description
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
@@ -44,6 +44,6 @@ A simple web application that allows users to search for a city to get the curre
 
 
 ## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
+anshu rai ©2024 All Rights Reserved.
 - - -
 
